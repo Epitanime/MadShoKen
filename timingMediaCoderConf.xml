@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaCoderPrefs><node key="overall.ui.optionTab" value="1"/><node key="overall.ui.param" value="680,640,380,130"/><node key="overall.audio.copy" value="true"/><node key="overall.video.mode" value="Quality-based"/><node key="overall.video.quality" value="100"/><node key="overall.video.format" value="XviD"/><node key="overall.video.source" value="Default"/><node key="overall.video.copy" value="true"/><node key="overall.container.format" value="AVI"/><node key="overall.container.external" value="Disabled"/></MediaCoderPrefs>

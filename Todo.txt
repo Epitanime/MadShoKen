@@ -1,0 +1,3 @@
+_bugguer proprement si il manque le ruby
+_couleur sur l'output error
+_Revoir le formatage : enlever la langue pour le fichier video

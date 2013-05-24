@@ -1,0 +1,27 @@
+V3_1:
+	correction des divers bugs
+V3_2:
+	encodage des vidéos
+V3_3:
+	correction du bug de non stop de la video quand arrivé à la fin
+	decallage du démarage : 1 seconde supplémentaire avant démarrage vidéo quand start
+	ajout des couleurs sur l'éditeur
+	correction du text de la frame d'edition
+	edition des paroles
+	selection de la couleur
+	prise en compte automatique des modifs
+	formatage du nom
+	selection rapide des fichier
+	filtre sur les noms de fichier
+	generation du .ini (completer avec le path relatif de la toyunda)
+	decalage frame
+V3_3_1:
+	correction de la génération du fichier lyrics
+	proposition de récupération du nom du fichier à l'ouverture
+	revert timing lors du chargement d'un fichier toyunda
+	modification du fichier toyunda en .txt de base
+	possibilité de préciser l'artiste 
+V3_3_2:
+	ajout de la cinematique reverse timing
+	correction bug de nommage fichier ini
+	correction bug reverse timing

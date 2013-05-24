@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TimingMadShoken">
+</Property><Property Name="Fichier solution" Value="D:\Mes documents\travail_perso\Epitanime\TimingMadShoken.sln">
+</Property><Property Name="Fichier d'options utilisateur" Value="D:\Mes documents\travail_perso\Epitanime\TimingMadShoken.suo">
+</Property><Property Name="Date" Value="mercredi 30 décembre 2009">
+</Property><Property Name="Time" Value="17:04">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TimingMadShoken.sln" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\TimingMadShoken.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TimingMadShoken.suo" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\TimingMadShoken.suo">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="TimingMadShoken.csproj" Description="Fichier projet correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\TimingMadShoken.csproj">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="TimingMadShoken.csproj.user" Description="Fichier utilisateur de projet correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\TimingMadShoken.csproj.user">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="AssemblyInfo.cs" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="Capture.cs" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\Capture.cs">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="Encodeur.cs" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\Encodeur.cs">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="FtpForm.cs" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\FtpForm.cs">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="FtpForm.Designer.cs" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\FtpForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="FtpTime.cs" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\FtpTime.cs">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="operation.cs" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\operation.cs">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="operation.Designer.cs" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\operation.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="Properties\Resources.Designer.cs" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="selectName.cs" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\selectName.cs">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="selectName.Designer.cs" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\selectName.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="GenerateurManager.cs" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\GenerateurManager.cs">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="mainForm.cs" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\mainForm.cs">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="ParoleManager.cs" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\ParoleManager.cs">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="logo_toy.ico" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\logo_toy.ico">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="App.config" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="ChangeLog.txt" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\ChangeLog.txt">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="App.ico" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="mainForm.resx" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\mainForm.resx">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="FtpForm.resx" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\FtpForm.resx">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="operation.resx" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\operation.resx">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="Properties\Resources.resx" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="selectName.resx" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\selectName.resx">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="timingMediaCoderConf.xml" Description="Fichier correctement sauvegardé en tant que D:\Mes documents\travail_perso\Epitanime\Backup\timingMediaCoderConf.xml">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="TimingMadShoken.csproj" Description="Projet correctement converti">
+</Event><Event ErrorLevel="3" Project="TimingMadShoken" Source="TimingMadShoken.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TimingMadShoken.sln" Description="Solution correctement convertie">
+</Event><Event ErrorLevel="3" Project="" Source="TimingMadShoken.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TimingMadShoken" Source="TimingMadShoken.csproj" Description="Analyse terminée : la mise à niveau n'est pas requise pour les fichiers projet.">
+</Event></UpgradeLog>

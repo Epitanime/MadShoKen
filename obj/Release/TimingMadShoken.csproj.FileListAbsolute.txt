@@ -1,0 +1,55 @@
+D:\Mes documents\travail_perso\Epitanime\bin\Release\Timing_madshoken.exe.config
+D:\Mes documents\travail_perso\Epitanime\obj\Release\Timing_madshoken.exe
+D:\Mes documents\travail_perso\Epitanime\bin\Release\App.ico
+D:\Mes documents\travail_perso\Epitanime\bin\Release\timingMediaCoderConf.xml
+D:\Mes documents\travail_perso\Epitanime\bin\Release\Timing_madshoken.exe
+D:\Mes documents\travail_perso\Epitanime\bin\Release\DirectShowLib-2005.dll
+D:\Mes documents\travail_perso\Epitanime\obj\Release\ResolveAssemblyReference.cache
+D:\Mes documents\travail_perso\Epitanime\obj\Release\TimingMadShoken.mainForm.resources
+D:\Mes documents\travail_perso\Epitanime\obj\Release\TimingMadShoken.FtpForm.resources
+D:\Mes documents\travail_perso\Epitanime\obj\Release\TimingMadShoken.operation.resources
+D:\Mes documents\travail_perso\Epitanime\obj\Release\Timing_madshoken.Properties.Resources.resources
+D:\Mes documents\travail_perso\Epitanime\obj\Release\TimingMadShoken.selectName.resources
+D:\Mes documents\travail_perso\Epitanime\obj\Release\TimingMadShoken.csproj.GenerateResource.Cache
+F:\Documents\travail_perso\Epitanime\Epitanime_Madshoken\bin\Release\Timing_madshoken.exe.config
+F:\Documents\travail_perso\Epitanime\Epitanime_Madshoken\obj\Release\Timing_madshoken.exe
+F:\Documents\travail_perso\Epitanime\Epitanime_Madshoken\bin\Release\App.ico
+F:\Documents\travail_perso\Epitanime\Epitanime_Madshoken\bin\Release\timingMediaCoderConf.xml
+F:\Documents\travail_perso\Epitanime\Epitanime_Madshoken\bin\Release\Timing_madshoken.exe
+F:\Documents\travail_perso\Epitanime\Epitanime_Madshoken\bin\Release\DirectShowLib-2005.dll
+F:\Documents\travail_perso\Epitanime\Epitanime_Madshoken\bin\Release\ICSharpCode.SharpZipLib.dll
+F:\Documents\travail_perso\Epitanime\Epitanime_Madshoken\obj\Release\ResolveAssemblyReference.cache
+F:\Documents\travail_perso\Epitanime\Epitanime_Madshoken\obj\Release\TimingMadShoken.mainForm.resources
+F:\Documents\travail_perso\Epitanime\Epitanime_Madshoken\obj\Release\TimingMadShoken.FtpForm.resources
+F:\Documents\travail_perso\Epitanime\Epitanime_Madshoken\obj\Release\TimingMadShoken.operation.resources
+F:\Documents\travail_perso\Epitanime\Epitanime_Madshoken\obj\Release\Timing_madshoken.Properties.Resources.resources
+F:\Documents\travail_perso\Epitanime\Epitanime_Madshoken\obj\Release\TimingMadShoken.selectName.resources
+F:\Documents\travail_perso\Epitanime\Epitanime_Madshoken\obj\Release\TimingMadShoken.csproj.GenerateResource.Cache
+F:\Projets\Perso\Epitanime\Epitanime_Madshoken\bin\Release\Timing_madshoken.exe.config
+F:\Projets\Perso\Epitanime\Epitanime_Madshoken\obj\Release\Timing_madshoken.exe
+F:\Projets\Perso\Epitanime\Epitanime_Madshoken\bin\Release\App.ico
+F:\Projets\Perso\Epitanime\Epitanime_Madshoken\bin\Release\timingMediaCoderConf.xml
+F:\Projets\Perso\Epitanime\Epitanime_Madshoken\bin\Release\Timing_madshoken.exe
+F:\Projets\Perso\Epitanime\Epitanime_Madshoken\bin\Release\DirectShowLib-2005.dll
+F:\Projets\Perso\Epitanime\Epitanime_Madshoken\bin\Release\ICSharpCode.SharpZipLib.dll
+F:\Projets\Perso\Epitanime\Epitanime_Madshoken\obj\Release\ResolveAssemblyReference.cache
+F:\Projets\Perso\Epitanime\Epitanime_Madshoken\obj\Release\TimingMadShoken.mainForm.resources
+F:\Projets\Perso\Epitanime\Epitanime_Madshoken\obj\Release\TimingMadShoken.FtpForm.resources
+F:\Projets\Perso\Epitanime\Epitanime_Madshoken\obj\Release\TimingMadShoken.operation.resources
+F:\Projets\Perso\Epitanime\Epitanime_Madshoken\obj\Release\Timing_madshoken.Properties.Resources.resources
+F:\Projets\Perso\Epitanime\Epitanime_Madshoken\obj\Release\TimingMadShoken.selectName.resources
+F:\Projets\Perso\Epitanime\Epitanime_Madshoken\obj\Release\TimingMadShoken.csproj.GenerateResource.Cache
+C:\Users\Iori\Documents\LDU\@Reference\Epitanime\Epitanime_Madshoken\bin\Release\Timing_madshoken.exe.config
+C:\Users\Iori\Documents\LDU\@Reference\Epitanime\Epitanime_Madshoken\obj\Release\Timing_madshoken.exe
+C:\Users\Iori\Documents\LDU\@Reference\Epitanime\Epitanime_Madshoken\bin\Release\App.ico
+C:\Users\Iori\Documents\LDU\@Reference\Epitanime\Epitanime_Madshoken\bin\Release\timingMediaCoderConf.xml
+C:\Users\Iori\Documents\LDU\@Reference\Epitanime\Epitanime_Madshoken\bin\Release\Timing_madshoken.exe
+C:\Users\Iori\Documents\LDU\@Reference\Epitanime\Epitanime_Madshoken\bin\Release\DirectShowLib-2005.dll
+C:\Users\Iori\Documents\LDU\@Reference\Epitanime\Epitanime_Madshoken\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Iori\Documents\LDU\@Reference\Epitanime\Epitanime_Madshoken\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Iori\Documents\LDU\@Reference\Epitanime\Epitanime_Madshoken\obj\Release\TimingMadShoken.mainForm.resources
+C:\Users\Iori\Documents\LDU\@Reference\Epitanime\Epitanime_Madshoken\obj\Release\TimingMadShoken.FtpForm.resources
+C:\Users\Iori\Documents\LDU\@Reference\Epitanime\Epitanime_Madshoken\obj\Release\TimingMadShoken.operation.resources
+C:\Users\Iori\Documents\LDU\@Reference\Epitanime\Epitanime_Madshoken\obj\Release\Timing_madshoken.Properties.Resources.resources
+C:\Users\Iori\Documents\LDU\@Reference\Epitanime\Epitanime_Madshoken\obj\Release\TimingMadShoken.selectName.resources
+C:\Users\Iori\Documents\LDU\@Reference\Epitanime\Epitanime_Madshoken\obj\Release\TimingMadShoken.csproj.GenerateResource.Cache
